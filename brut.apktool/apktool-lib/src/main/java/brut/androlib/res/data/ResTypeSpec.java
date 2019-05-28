@@ -32,6 +32,15 @@ public final class ResTypeSpec {
     public static final String RES_TYPE_NAME_STYLES3 = "style3";
     public static final String RES_TYPE_NAME_STYLES4 = "style4";
     public static final String RES_TYPE_NAME_STYLES5 = "style5";
+    public static final String RES_TYPE_NAME_STYLES6 = "style6";
+    public static final String RES_TYPE_NAME_STYLES7 = "style7";
+    public static final String RES_TYPE_NAME_STYLES8 = "style8";
+    public static final String RES_TYPE_NAME_STYLES9 = "style9";
+    public static final String RES_TYPE_NAME_STYLES10 = "style10";
+    public static final String RES_TYPE_NAME_STYLES11 = "style11";
+    public static final String RES_TYPE_NAME_STYLES12 = "style12";
+    public static final String RES_TYPE_NAME_STYLES13 = "style13";
+    public static final String RES_TYPE_NAME_STYLES14 = "style14";
 
     private final String mName;
     private final Map<String, ResResSpec> mResSpecs = new LinkedHashMap<String, ResResSpec>();
